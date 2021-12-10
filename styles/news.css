@@ -1,0 +1,21 @@
+.newsPage_section{
+    padding-top: 3rem;
+    /* background-color: #4c4c4c; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.newsPage_header{
+    padding: 1rem;
+    font-size: 3rem;
+    background-color: black;
+    /* background-color: #E1342D; */
+    color: #fff;
+    margin-bottom: 4rem;
+}
+
+.newspage-card-section{
+    max-height: 90vh;
+    overflow-y: auto;
+}

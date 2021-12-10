@@ -1,0 +1,16 @@
+.about_us_section{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+h1{
+    font-size: 4rem;
+}
+
+span{
+   margin-top: 2.5rem;
+   margin-bottom: 2.5rem;
+   font-size: 2rem;
+}
+
